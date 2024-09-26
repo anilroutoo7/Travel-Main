@@ -10,4 +10,4 @@ For downloading XAMPP server click the Link:- https://www.apachefriends.org/down
 <br>
 For pushing this project in to AWS (Amazon Web Service) Reference Link:- https://youtu.be/Islmm-LMu38?si=hQ54Ot2KwvrHOwVR
 <br>
-If you like my projects then follow me on insta:- https://www.instagram.com/_kumar_gourav__/
+
